@@ -1,0 +1,96 @@
+current_focus = {Paths to Hacking Greatness
+    "learning":   ["Active Directory Attacks", "API Security Testing", "Cloud Pentesting"],
+    "practicing": ["TryHackMe Rooms", "HackTheBox Machines", "CTF Competitions"],
+    "building":   ["Security Tools in Python", "Bug Bounty Methodology Docs"],
+    "goal_2026":  "Land first security internship or bug bounty hall of fame 🏆"
+markdown
+
+
+Copy
+<div align="center">
+
+# 👋 Hey, I'm Marcus!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;Penetration+Tester;CTF+Competitor;Always+Learning+%F0%9F%94%90" alt="Typing SVG" />
+
+[![GitHub followers](https://img.shields.io/github/followers/marcusnp11-cyber?style=for-the-badge&color=3fb950&labelColor=161b22)](https://github.com/marcusnp11-cyber)
+[![Profile Views](https://komarev.com/ghpvc/?username=marcusnp11-cyber&style=for-the-badge&color=58a6ff)](https://github.com/marcusnp11-cyber)
+[![Location](https://img.shields.io/badge/📍_Orem,_UT-161b22?style=for-the-badge)](https://github.com/marcusnp11-cyber)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```bash
+marcus@kali:~$ whoami
+Passionate cybersecurity learner focused on ethical hacking, bug bounty hunting, and breaking things (intentionally) to understand how to defend them. I love diving into CTF challenges, studying vulnerabilities, and contributing to a safer internet.
+
+🛡️ Bug Bounty Hunter — Actively hunting on public programs
+
+🔍 Penetration Tester — Web app & network security
+
+🌱 Currently Learning — Active Directory attacks, API Security, Cloud Pentesting
+
+🎯 Goal — Become a full-time security researcher
+
+⚡ Fun fact — I find more bugs before breakfast than most people find all day ☕
+
+🛠️ Skills & Tools
+🔐 Security
+
+
+
+
+
+💻 Programming & Scripting
+
+
+
+
+🖥️ Platforms & OS
+
+
+
+
+🏆 Certifications & Achievements
+Badge	Certification	Status
+🎓	CompTIA Security+ (In Progress)	🔄 Studying
+🧠	eJPT — eLearnSecurity Junior Penetration Tester	🎯 Targeting
+🕵️	TryHackMe — Top 10%	✅ Achieved
+🏴	CTF Competitor	✅ Active
+🐛	Bug Bounty Hunter	✅ Active
+
+
+⏱️ My Security Journey
+Code
+
+
+Copy
+2023 ──────────────────────────────────────────────────────────► 2026
+  │                                                                │
+  ▼                                                                ▼
+[🌱 Started]──►[💻 Linux &]──►[🔐 Web App]──►[🐛 Bug]──►[🎯 Advanced]
+  Cybersecurity    Scripting      Security       Bounty     Pentesting
+  Learning         Basics         & OWASP        Hunting    & Research
+📅 Timeline
+2023 — Discovered cybersecurity; started with networking fundamentals & Linux basics
+
+2024 — Dove into web application security, OWASP Top 10, and started CTF challenges
+
+2025 — Launched bug bounty hunting on public programs; built first security tools in Python
+
+2026 — Advancing into Active Directory, Cloud Security & API pentesting; building portfolio
+
+🚀 Featured Projects
+🐛 bugthebounty
+A comprehensive guide to starting bug bounty hunting — covering recon methodology, vulnerability classes, report writing, and program selection.
+
+bug-bounty recon security OWASP guide
+
+🔍 Security Notes & Research
+Personal knowledge base documenting CTF writeups, pentesting techniques, tool configs, and research findings.
+
+CTF notes pentesting research writeups
+
